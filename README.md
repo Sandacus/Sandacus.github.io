@@ -1,2 +1,2 @@
 # Sandacus.github.io
-My Website
+Welcome to my website. This will be used to start creating a portfolio for work I have done.
