@@ -1,7 +1,6 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
 layout: home
+title: Homepage
 ---
-This is a test for adding content to this website.
+## Page title
+This is my website homepage. This should have a nice overview of what can be found here.
